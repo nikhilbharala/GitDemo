@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Flipkart">
+  <test thread-count="5" name="Smoke">
+    <classes>
+      <class name="Flipkart.MavenJava.Login3Test"/>
+      <class name="Flipkart.MavenJava.Login2Test"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

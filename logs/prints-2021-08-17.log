@@ -1,0 +1,9 @@
+21:12:05.899 [main] ERROR log4jA.Demo - object is not present
+21:12:05.909 [main] FATAL log4jA.Demo - this is fatal
+21:12:08.385 [main] ERROR log4jA.Demo - object is not present
+21:12:08.388 [main] FATAL log4jA.Demo - this is fatal
+21:12:10.217 [main] ERROR log4jA.Demo - object is not present
+21:12:10.220 [main] FATAL log4jA.Demo - this is fatal
+21:12:12.595 [main] ERROR log4jA.Demo - object is not present
+21:12:12.598 [main] FATAL log4jA.Demo - this is fatal
+21:12:16.256 [main] ERROR log4jA.Demo - object is not present
