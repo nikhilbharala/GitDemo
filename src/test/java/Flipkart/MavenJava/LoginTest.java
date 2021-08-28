@@ -8,7 +8,7 @@ public class LoginTest {
 	@Test
 	public void open()
 	{
-		System.out.println("nikhils");
+		System.out.println("bhrala 3");
 		
 	}
 	
@@ -16,7 +16,7 @@ public class LoginTest {
 	@Test
 	public void open2()
 	{
-		System.out.println("nikhils2");
+		System.out.println("bharala 4");
 		
 	}
 }
